@@ -1,9 +1,12 @@
 package com.rcambui.xadrez.application;
 
+import com.rcambui.xadrez.boardgame.Position;
+
 public class Program {
 
     public static void main(String[] args) {
 
-        System.out.println("Hellor World");
+        var pos = new Position(3, 5);
+        System.out.println(pos);
     }
 }
