@@ -61,7 +61,6 @@
   </ul>
   <h2>Acknowledgments</h2>
   <p>This Chess System project is based on the teachings of Professor Nélio Alves in his Java course on Udemy.</p>
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+  
 </body>
 </html>
