@@ -3,7 +3,7 @@ package com.rcambui.xadrez.chess;
 import com.rcambui.xadrez.boardgame.Board;
 import com.rcambui.xadrez.boardgame.Piece;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
 
     private Color color;
 
